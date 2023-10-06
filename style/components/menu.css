@@ -1,13 +1,10 @@
 .menu {
 
     margin-top: .5rem;
-    
+    display: flex;
 
-    .hamburger {
-
-        padding-top: 1rem;
-        margin-left: 174.5px;
-    }
+    justify-content: space-between;
+    padding-top: 1rem;
 
 
 }
