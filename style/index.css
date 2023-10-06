@@ -1,0 +1,51 @@
+@import url(variables.css);
+@import url(fonts.css);
+@import url(components/menu.css);
+@import url(components/hero.css);
+@import url(components/buttons.css);
+@import url(components/content.css);
+@import url(components/picture.css);
+@import url(components/inputs.css);
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    line-height: normal;
+}
+
+html{
+    background-color: #fff;
+}
+
+body {
+    max-width: 375px;
+    min-height: 100vh;
+    margin: auto;
+    background-color: var(--background);
+    color: var(--text-color);
+    font-family: Inter;
+}
+
+h1 {
+    text-align: center;
+    font-family: Inter;
+    font-size: 2.5rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 3rem;
+}
+
+p {
+    color: #FFF;
+    text-align: center;
+    font-size: 1.125rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-family: Inter400;
+
+}

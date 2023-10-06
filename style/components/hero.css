@@ -1,0 +1,9 @@
+.hero {
+    min-height: 48.625rem;
+    background-image: url(../../images/hero.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}

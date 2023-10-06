@@ -1,0 +1,65 @@
+.content {
+    padding: 1rem;
+}
+
+.content h1 {
+    font-size: 2rem;
+}
+
+.content ul {
+    margin: auto;
+    color: #FFF;
+    font-family: Inter400;
+    font-size: 1.125rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    /* 1.575rem */
+}
+
+.content span {
+    margin-bottom: 1rem;
+    display: block;
+}
+
+.content li {
+    color: #FFF;
+    font-family: Inter400;
+    font-size: 1.125rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+    text-align: left;
+    margin-left: 2.5rem;
+    /* 1.575rem */
+}
+
+.contentbox {
+    background-color: #fff;
+    color: #000;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 0.75rem;
+    margin-bottom: 2rem;
+}
+
+.contentbox p {
+    color: inherit;
+    text-align: left;
+    font-family: Inter;
+}
+
+.contentbox img {
+    width: 6.625rem;
+}
+
+.gray {
+    border-radius: 0.75rem;
+    border: 3px solid #747474;
+    background: #333;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    color: white;
+}
